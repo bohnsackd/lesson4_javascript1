@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(10 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(David Bohnsack)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project allows users to enter in there expenses and get total. It also shows the user what percenage of the expenses is the most.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://bohnsackd.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to use the parseFloat in order to set numbers to certain decimal points this is very usefull when you are dealing with big numbers.
+2. In this lesson I also learend Basic syntax rules for JavaScript for example that javascript is case-sensitive and also ignores extra whitespace within statements.
+3. Last in this last I learned rules for creating identifiers. Identifiers cant start with a number and they are also case-sensitive.
 
